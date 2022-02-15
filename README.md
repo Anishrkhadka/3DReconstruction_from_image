@@ -2,7 +2,7 @@
 
 This repo contains MatLab script used to capture inter-reflection in order to improve the 3D reconstruction from photometric stereo. 
 
-- [x] Ray tracing engine in Matlab
+- [x] Multi threaded Ray tracing engine in Matlab
 - [x] Environment inter-reflection capturing pipeline
 
 
